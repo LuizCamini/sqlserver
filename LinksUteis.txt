@@ -1,0 +1,9 @@
+--instalação e utilização do MS-SQL-SERVER no Linux
+https://docs.microsoft.com/pt-br/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver15
+
+https://docs.microsoft.com/pt-br/sql/linux/sql-server-linux-troubleshooting-guide?view=sql-server-ver15
+
+https://docs.microsoft.com/pt-br/sql/database-engine/configure-windows/start-stop-pause-resume-restart-sql-server-services?view=sql-server-ver15
+
+https://sempreupdate.com.br/como-reiniciar-ou-desligar-o-linux-ubuntu-pelo-terminal/
+
